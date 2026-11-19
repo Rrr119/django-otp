@@ -36,6 +36,7 @@ INSTALLED_APPS = [
     'django_otp',
     'django_otp.plugins.otp_email',
     'django_otp.plugins.otp_hotp',
+    'django_otp.plugins.otp_recovery',
     'django_otp.plugins.otp_static',
     'django_otp.plugins.otp_totp',
     'test_project.test_app',

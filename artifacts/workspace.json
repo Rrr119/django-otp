@@ -1,0 +1,17 @@
+{
+  "root": "/home/dev/feedback/uid28688",
+  "B": "/home/dev/feedback/uid28688",
+  "sha": "6d398e9137bbd6839401f579e6b228a6c701cb9f",
+  "wslDistro": "Ubuntu-26.04",
+  "source": {
+    "owner": "django-otp",
+    "repo": "django-otp",
+    "sha": "6d398e9137bbd6839401f579e6b228a6c701cb9f"
+  },
+  "fork": {
+    "owner": "Rrr119",
+    "repo": "django-otp",
+    "cloneUrl": "https://github.com/Rrr119/django-otp.git"
+  },
+  "at": "2026-11-19T16:04:46.582Z"
+}

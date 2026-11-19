@@ -1,3 +1,11 @@
+vNext - Unreleased - Account recovery: backup codes and trusted devices
+--------------------------------------------------------------------------------
+
+- Add the ``otp_recovery`` plugin with single-use, hashed backup codes
+  (``BackupCodeDevice``) and fingerprint-bound trusted devices
+  (``TrustedDevice``), including issue/verify/revocation APIs and settings.
+
+
 v1.7.5 - October 16, 2026 - Revoke sessions for unconfirmed devices
 --------------------------------------------------------------------------------
 
